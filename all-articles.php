@@ -5,6 +5,7 @@ Plugin URI: https://factotum.bzh/boutique-wordpress/
 Description: Plugin WordPress pour afficher les titres de tous les articles du blog.
 Version: 1.0
 Author: Franck Canonne
+Author Email: franck.canonne@gmail.com
 Author URI: https://factotum.bzh
 License: GPL2
 */
