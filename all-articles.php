@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Liste des articles
-Plugin URI: https://factotum.bzh
+Plugin URI: https://factotum.bzh/boutique-wordpress/
 Description: Plugin WordPress pour afficher les titres de tous les articles du blog.
 Version: 1.0
 Author: Franck Canonne
